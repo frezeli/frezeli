@@ -47,9 +47,9 @@ $ cat ~/skills.conf
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=frezeli&theme=dark&hide_border=false&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=frezeli&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=frezeli&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=frezeli&theme=dark&hide_border=false&count_private=true)  
+![](https://streak-stats.demolab.com?user=frezeli&theme=dark&hide_border=false)  
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frezeli&theme=dark&hide_border=false&layout=compact)
 
 ----------
 
@@ -57,5 +57,5 @@ $ cat ~/skills.conf
 
 > _"The best code, like the best legal argument, survives cross-examination."_
 
-[![](https://visitcount.itsvg.in/api?id=frezeli&icon=0&color=0)](https://visitcount.itsvg.in/)
+![](https://komarev.com/ghpvc/?username=frezeli&color=blueviolet&style=for-the-badge)
 
