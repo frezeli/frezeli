@@ -3,12 +3,12 @@
 
   # frezeli
 
-  <sub>Lawyer & builder · Nottingham, UK</sub>
+  <sub>Lawyer & builder · </sub>
 </div>
 
 <br/>
 
-Practising law by day, shipping software by night. Currently exploring where AI reasoning meets legal reasoning — mostly by building [Lititrack](https://github.com/frezeli), a case management platform for litigation practices.
+Noora said I'm funny, smart and creative.
 
 <br/>
 
