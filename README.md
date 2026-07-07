@@ -1,61 +1,32 @@
-```bash
-> whoami
+<div align="center">
 
-```
+# frezeli
 
-```dart
-frezeli@github
-────────────────────────────────
-OS        : common-law v2.0
-Terminal  : chambers
-Kernel    : call-to-the-bar
-Role      : lawyer × builder
-Location  : Nottingham, UK
+<sub>Lawyer & builder · Nottingham, UK</sub>
 
-status:
-  - arguing cases by day, training models by night
-  - exploring where AI reasoning meets legal reasoning
-  - probably not admissible as evidence
-```
+</div>
 
-```bash
-$ cat ~/skills.conf
+<br/>
 
-```
+Practising law by day, shipping software by night. Currently exploring where AI reasoning meets legal reasoning — mostly by building [Lititrack](https://github.com/frezeli), a case management platform for litigation practices.
 
-### 🧠 Languages
+<br/>
 
-![Python](https://img.shields.io/badge/Python-%2363B3ED?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F6E05E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-%23FEB2B2?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%239AE6B4?style=for-the-badge&logo=css3&logoColor=white)
+### Stack
 
-### 🛠️ Scripting & Tools
+<p>
+  <img src="https://img.shields.io/badge/-Python-111827?style=flat-square&logo=python&logoColor=94a3b8" />
+  <img src="https://img.shields.io/badge/-TypeScript-111827?style=flat-square&logo=typescript&logoColor=94a3b8" />
+  <img src="https://img.shields.io/badge/-React-111827?style=flat-square&logo=react&logoColor=94a3b8" />
+  <img src="https://img.shields.io/badge/-Django-111827?style=flat-square&logo=django&logoColor=94a3b8" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=94a3b8" />
+  <img src="https://img.shields.io/badge/-Git-111827?style=flat-square&logo=git&logoColor=94a3b8" />
+  <img src="https://img.shields.io/badge/-PowerShell-111827?style=flat-square&logo=powershell&logoColor=94a3b8" />
+</p>
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)  
-![Batch](https://img.shields.io/badge/Batch-%23C6F6D5?style=for-the-badge&logo=windowsterminal&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-%23FEB2B2?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23E2E8F0?style=for-the-badge&logo=github&logoColor=black)
+<br/>
 
-### ⚖️ Interests
-
-![AI](https://img.shields.io/badge/AI%2FML-%239F7AEA?style=for-the-badge&logo=openai&logoColor=white)  
-![LegalTech](https://img.shields.io/badge/LegalTech-%23F6AD55?style=for-the-badge&logo=readthedocs&logoColor=black)  
-![Automation](https://img.shields.io/badge/Automation-%2381E6D9?style=for-the-badge&logo=zapier&logoColor=black)
-
-----------
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=frezeli&theme=dark&hide_border=false&count_private=true)  
-![](https://streak-stats.demolab.com?user=frezeli&theme=dark&hide_border=false)  
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=frezeli&theme=dark&hide_border=false&layout=compact)
-
-----------
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-> _"The best code, like the best legal argument, survives cross-examination."_
-
-![](https://komarev.com/ghpvc/?username=frezeli&color=blueviolet&style=for-the-badge)
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=frezeli&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=64748b&text_color=94a3b8&icon_color=64748b&hide=prs,issues&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frezeli&layout=compact&hide_title=true&hide_border=true&bg_color=00000000&title_color=64748b&text_color=94a3b8&langs_count=6" width="35%" />
+</div>
