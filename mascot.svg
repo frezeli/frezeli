@@ -1,0 +1,68 @@
+<svg width="180" height="180" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="wing" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#db2777"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -6; 0 0" dur="2.4s" repeatCount="indefinite"/>
+
+    <!-- feet -->
+    <ellipse cx="82" cy="176" rx="9" ry="4" fill="#f59e0b"/>
+    <ellipse cx="118" cy="176" rx="9" ry="4" fill="#f59e0b"/>
+
+    <!-- body -->
+    <ellipse cx="100" cy="120" rx="52" ry="56" fill="url(#body)"/>
+
+    <!-- wings -->
+    <ellipse cx="52" cy="128" rx="14" ry="28" fill="url(#wing)" transform="rotate(-12 52 128)"/>
+    <ellipse cx="148" cy="128" rx="14" ry="28" fill="url(#wing)" transform="rotate(12 148 128)"/>
+
+    <!-- belly -->
+    <ellipse cx="100" cy="132" rx="30" ry="34" fill="#fef3c7" opacity="0.9"/>
+
+    <!-- barrister wig -->
+    <path d="M56 92 Q60 40 100 38 Q140 40 144 92 Q144 70 130 68 Q128 50 100 50 Q72 50 70 68 Q56 70 56 92 Z" fill="#f8fafc"/>
+    <circle cx="62" cy="86" r="9" fill="#f8fafc"/>
+    <circle cx="138" cy="86" r="9" fill="#f8fafc"/>
+    <circle cx="58" cy="102" r="8" fill="#f8fafc"/>
+    <circle cx="142" cy="102" r="8" fill="#f8fafc"/>
+    <path d="M100 38 Q96 30 100 24 Q104 30 100 38 Z" fill="#f8fafc"/>
+
+    <!-- glasses -->
+    <circle cx="82" cy="98" r="15" fill="#fffbeb" stroke="#f59e0b" stroke-width="3"/>
+    <circle cx="118" cy="98" r="15" fill="#fffbeb" stroke="#f59e0b" stroke-width="3"/>
+    <line x1="97" y1="98" x2="103" y2="98" stroke="#f59e0b" stroke-width="3"/>
+
+    <!-- eyes (blinking) -->
+    <ellipse cx="82" cy="98" rx="6" ry="7" fill="#1e293b">
+      <animate attributeName="ry" values="7;7;1;7;7" keyTimes="0;0.85;0.9;0.95;1" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="118" cy="98" rx="6" ry="7" fill="#1e293b">
+      <animate attributeName="ry" values="7;7;1;7;7" keyTimes="0;0.85;0.9;0.95;1" dur="4s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <!-- beak -->
+    <path d="M94 112 L106 112 L100 122 Z" fill="#f59e0b"/>
+
+    <!-- gavel, tapping -->
+    <g transform-origin="150 150">
+      <animateTransform attributeName="transform" type="rotate" values="0 150 150; -25 150 150; 0 150 150; 0 150 150" keyTimes="0;0.15;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+      <rect x="147" y="118" width="6" height="40" rx="3" fill="#92400e"/>
+      <rect x="136" y="108" width="28" height="14" rx="4" fill="#b45309"/>
+    </g>
+
+    <!-- sparkle -->
+    <g fill="#facc15">
+      <path d="M170 100 l2 6 6 2 -6 2 -2 6 -2 -6 -6 -2 6 -2 z" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.15;0.25;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+      </path>
+    </g>
+  </g>
+</svg>
